@@ -30,6 +30,4 @@ Download executable build for Windows:
 ➡️ [Download .zip](https://drive.google.com/file/d/1i4ZkRjxfLKNeYuG3_0w8U3lCbgJobN6V/view?usp=sharing)
 
 ## Author
-Anton Koroid  
-B.Sc. Computer Science (Germany)  
-GitHub: https://github.com/EnergyAntspace/unity-strategy-demo
+Anton Koroid
